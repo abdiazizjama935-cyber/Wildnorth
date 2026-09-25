@@ -275,12 +275,12 @@ const Faq = () => {
             >
               Contact Support
             </a>
-            <a
+            {/* <a
               href="/support"
               className="inline-flex items-center gap-2 px-6 py-3 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 font-semibold rounded-full hover:bg-gray-300 dark:hover:bg-gray-600 transition"
             >
               Submit a Ticket
-            </a>
+            </a> */}
           </div>
         </div>
       </section>
@@ -288,4 +288,4 @@ const Faq = () => {
   );
 };
 
-export default Faq;
+export default Faq; 
