@@ -59,7 +59,7 @@ const Register = () => {
 
     try {
       const response = await axios.post(
-        'http://localhost:5000/api/auth/register',
+        'https://wildnorth.onrender.com/api/auth/register',
         {
           full_name: formData.name,
           email: formData.email,
