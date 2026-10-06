@@ -268,7 +268,7 @@ const Faq = () => {
           <p className="text-gray-600 dark:text-gray-400">
             Can't find what you're looking for?
           </p>
-          <div className="flex flex-wrap gap-4 justify-center mt-4">
+          <div className="flex flex-wrap gap-4 justify-center mt-4">c
             <a
               href="/contact"
               className="inline-flex items-center gap-2 px-6 py-3 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-full transition"
